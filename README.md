@@ -5,6 +5,10 @@
 # Introduction
 This mess was made to test out of a DTMF way (telephone key tones) method of sending a transaction would work. This could be used to sent out a transaction from a location that only has Landline or Cellphone coverage, without the need for a trusted party. The transaction that is pushed out cannot be forged (as far as I know). I used an old issue from Phrack for the DTFM tones. The code is included and does not have a license as far as I know....
 
+*Schematic of possible way to implement:*
+```
+[Offline wallet]---[bitcoin-tone]--->[[DTFM String over landline]]--->[POTS Network]<---[DTFM Bitcoin node]--->[Internet/Blockchain]
+
 # Preparation
 
 This test-script takes in a raw transaction this can be done (From Electrum) by typing
