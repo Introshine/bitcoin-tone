@@ -7,8 +7,19 @@ This mess was made to test out of a DTMF way (telephone key tones) method of sen
 
 *Schematic of possible way to implement:*
 ```
-[Offline wallet]---[bitcoin-tone]--->[[DTFM String over landline]]--->[POTS Network]<---[DTFM Bitcoin node]--->[Internet/Blockchain]
+[Offline wallet]
+      |
+[bitcoin-tone script]
+      |
+[DTFM String over landline]
+      |
+[POTS Network]
+      |
+[DTFM Bitcoin node]
+      |
+[Internet/Blockchain]
 
+```
 # Preparation
 
 This test-script takes in a raw transaction this can be done (From Electrum) by typing
