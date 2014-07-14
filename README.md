@@ -77,4 +77,4 @@ This was all a learning experience. What I have done
 * My code is really bad
 * The quality of the audio really matters - 1 digit can mess up the entire file
 
-** Donations welcome for my hobby stuff: 15Rkg1q6oqCb918WW2ioY21kiokP6wAZsq**
+**Donations welcome for my hobby stuff: 15Rkg1q6oqCb918WW2ioY21kiokP6wAZsq**
