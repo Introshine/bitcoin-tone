@@ -76,3 +76,5 @@ This was all a learning experience. What I have done
 * I takes anywhere from 3 to 7 minutes of DTMF tones to transfer a transaction over a landline. 
 * My code is really bad
 * The quality of the audio really matters - 1 digit can mess up the entire file
+
+** Donations welcome for my hobby stuff: 15Rkg1q6oqCb918WW2ioY21kiokP6wAZsq**
