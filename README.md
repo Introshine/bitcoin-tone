@@ -3,7 +3,7 @@
 *I cannot state this enough: USE AT OWN RISK*
 
 # Introduction
-This mess was made to test out of a DTMF way (telephone key tones) method of sending a transaction would work. This could be used to sent out a transaction from a location that only has Landline or Cellphone coverage, without the need for a trusted party. The transaction that is pushed out cannot be forged (as far as I know). I used an old issue from Phrack for the DTFM tones. The code is included and does not have a license as far as I know....
+This repo was made to test out of a DTMF way (telephone key tones) method of sending a transaction would work. This could be used to sent out a transaction from a location that only has Landline or Cellphone coverage, without the need for a trusted party. The transaction that is pushed out cannot be forged (as far as I know). I used an old issue from Phrack for the DTFM tones. The code is included and does not have a license as far as I know....
 
 *Schematic of possible way to implement:*
 ```
