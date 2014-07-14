@@ -1,4 +1,4 @@
-*WARNING - This proof-of-concept is broken. It was made to test some stuff and should not be used with any reasonable amount of Bitcoin. DO NOT USE WALLET FILES THAT CONTAIN A LOT OF BITCOIN*
+*WARNING - This proof-of-concept is almost broken, and only just works. Use at own risk, no warranty! It was made to test some stuff and should not be used with any reasonable amount of Bitcoin. DO NOT USE WALLET FILES THAT CONTAIN A LOT OF BITCOIN*
 
 *I cannot state this enough: USE AT OWN RISK*
 
