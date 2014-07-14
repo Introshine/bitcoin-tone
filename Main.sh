@@ -95,7 +95,7 @@ then
     echo "* Checksum [PASSED]: $SANE"
     txid=$(dec2hex "$TRANS")
     echo "* TXID: "
-    #include a trailing 0 - stripped off by bc but needed for hex/pushing it onto the network
+    #include a trailing 0 - stripped off by dec2hex function by "bc" but needed for hex/pushing it onto the network
     echo "0$txid"
 
 else
